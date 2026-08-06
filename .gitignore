@@ -1,0 +1,21 @@
+.idea
+.vscode
+build
+dist
+node_modules
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+raw_reports
+reports
+cypress/screenshots
+cypress/videos
+
+# internal working files — not part of the published project
+public/_old
+CLAUDE.md
+PROGRESS.md
+setup.md
